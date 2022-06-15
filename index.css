@@ -1,0 +1,51 @@
+*,
+html {
+   background-color: rgb(24, 4, 16);
+}
+body {
+   margin-top: 100px;
+   height: 3500px;
+}
+h1 {
+   color: white;
+   margin-bottom: 40px;
+   padding-top: 40px;
+}
+#writeText {
+   height: 60px;
+   width: 400px;
+   border-radius: 10px;
+   color: white;
+   font-size: 15px;
+   border: 3px solid coral;
+   outline: none;
+}
+#addButton {
+   color: white;
+   font-size: 20px;
+   border-radius: 10px;
+   border: 3px solid aqua;
+   cursor: pointer;
+   padding: 15px;
+   width: 100px;
+}
+
+#listItems {
+   color: white;
+   display: block;
+   float: left;
+   margin: 30px;
+   padding: 50px;
+}
+#top {
+   display: none;
+   right: 30px;
+   bottom: 20px;
+   font-size: large;
+   color: aqua;
+   border-radius: 10px;
+   height: 60px;
+   width: 60px;
+   border: 4px solid white;
+   position: fixed;
+}
