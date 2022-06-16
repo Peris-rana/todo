@@ -3,9 +3,15 @@
 A simple todo list 
 
 ### Tech used : 
-  *Javascript , Css , Html
+  * Javascript , Css , Html
  
-### Javascript references : 
+### Javascript reference : 
   * https://javascript.info
+  * https://w3schools.com
+  * https://stackoverflow.com
+
+### Html and Css reference : 
+  * https://w3schools.com
+  * https://stackoverflow.com
 
 
