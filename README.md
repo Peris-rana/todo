@@ -2,10 +2,10 @@
 
 A simple todo list 
 
-###Tech used : 
+### Tech used : 
   *Javascript , Css , Html
  
-###Javascript references : 
+### Javascript references : 
   * https://javascript.info
 
 
